@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="648d5d65-ee5b-4a2d-a963-79f4e298c013" name="Changes" comment="Message : Add two numbers problem implementation&#10;Description : Third commit&#10;Reviewer: Self&#10;Dependency: None">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Exercise_002_AddTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689847509986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Message : Add two numbers problem implementation&#10;Description : Third commit&#10;Reviewer: Self&#10;Dependency: None">
+      <created>1689850713038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689850713038</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
