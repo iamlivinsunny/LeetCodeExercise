@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="648d5d65-ee5b-4a2d-a963-79f4e298c013" name="Changes" comment="Message : First Commit&#10;Description : First Commit&#10;Reviewer: Self&#10;Dependency: None">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Exercise_001_TwoSum.java" afterDir="false" />
+    <list default="true" id="648d5d65-ee5b-4a2d-a963-79f4e298c013" name="Changes" comment="Message : Add two numbers problem implementation&#10;Description : Third commit&#10;Reviewer: Self&#10;Dependency: None">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Exercise_002_AddTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Exercise_002_AddTwoNumbers">
     <configuration name="Exercise_001_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.Exercise_001_TwoSum" />
       <module name="LeetCodeExercise" />
@@ -50,8 +51,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise_002_AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Exercise_002_AddTwoNumbers" />
+      <module name="LeetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise_002_AddTwoNumbers" />
         <item itemvalue="Application.Exercise_001_TwoSum" />
       </list>
     </recent_temporary>
@@ -72,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689845028141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Message : Two Sum problem implementation&#10;Description : Second commit&#10;Reviewer: Self&#10;Dependency: None">
+      <created>1689847509986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689847509986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Message : First Commit&#10;Description : First Commit&#10;Reviewer: Self&#10;Dependency: None" />
-    <option name="LAST_COMMIT_MESSAGE" value="Message : First Commit&#10;Description : First Commit&#10;Reviewer: Self&#10;Dependency: None" />
+    <MESSAGE value="Message : Two Sum problem implementation&#10;Description : Second commit&#10;Reviewer: Self&#10;Dependency: None" />
+    <MESSAGE value="Message : Add two numbers problem implementation&#10;Description : Third commit&#10;Reviewer: Self&#10;Dependency: None" />
+    <option name="LAST_COMMIT_MESSAGE" value="Message : Add two numbers problem implementation&#10;Description : Third commit&#10;Reviewer: Self&#10;Dependency: None" />
   </component>
 </project>
